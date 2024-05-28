@@ -1,0 +1,10 @@
+.overlay{
+    border-image:  linear-gradient(
+        to right,
+        #2e2c2cac,
+        #ff4b2b00
+    ) fill 1;
+}
+.slider-heading h1, .slider-heading p {
+    color: #fff;
+}
